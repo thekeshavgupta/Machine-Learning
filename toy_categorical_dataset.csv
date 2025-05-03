@@ -1,0 +1,11 @@
+ID,Gender,City,Satisfaction Level,Education Level
+1,Male,New York,High,Bachelor's
+2,Female,Chicago,Medium,Master's
+3,Non-binary,San Francisco,Low,High School
+4,Female,New York,Very High,PhD
+5,Male,Los Angeles,Medium,Bachelor's
+6,Female,Chicago,Very Low,High School
+7,Male,Houston,High,Master's
+8,Non-binary,Miami,Low,Bachelor's
+9,Female,Seattle,Medium,PhD
+10,Male,Boston,Very High,Master's
